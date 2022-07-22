@@ -32,7 +32,7 @@
 * [资源与人口的分配制度](zhi-du/zi-yuan-yu-ren-kou-de-fen-pei-zhi-du.md)
 * [meme经济制度](zhi-du/meme-jing-ji-zhi-du/README.md)
   * [Page 6](zhi-du/meme-jing-ji-zhi-du/page-6.md)
-* [计算机统筹经济](zhi-du/ji-suan-ji-tong-chou-jing-ji.md)
+* [计算机统筹经济](zhi-du/ji-suan-ji-wan-quan-tong-chou-jing-ji.md)
 * [热爱驱动的无条件基本收入](zhi-du/re-ai-qu-dong-de-wu-tiao-jian-ji-ben-shou-ru.md)
 
 ## 大学
