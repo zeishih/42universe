@@ -72,7 +72,7 @@
     </head>
     <body>
         
-<div class="book">
+<div class="book with-summary font-size-3 font-family-0 color-theme-1">
     <div class="book-summary">
         
             
