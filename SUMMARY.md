@@ -14,7 +14,7 @@
 * [宅星](stars-in-42nd-universe/zhai-xing/README.md)
   * [宅星人的战争](stars-in-42nd-universe/zhai-xing/page-4.md)
   * [球星人的制度](stars-in-42nd-universe/zhai-xing/qiu-xing-ren-de-zhi-du.md)
-  * [宅星人的小故事们](stars-in-42nd-universe/zhai-xing/zhai-xing-ren-de-xiao-gu-shi-men.md)
+  * [宅星人的小故事们](stars-in-42nd-universe/zhai-xing/xiao-jing-ling-xing-de-xiao-gu-shi-men.md)
 * [小精灵星](stars-in-42nd-universe/xiao-jing-ling-xing.md)
   * [小精灵星的战争](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-de-zhan-zheng.md)
   * [小精灵星球的制度](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-qiu-de-zhi-du.md)
@@ -32,7 +32,7 @@
 * [资源与人口的分配制度](zhi-du/zi-yuan-yu-ren-kou-de-fen-pei-zhi-du.md)
 * [meme经济制度](zhi-du/meme-jing-ji-zhi-du/README.md)
   * [Page 6](zhi-du/meme-jing-ji-zhi-du/page-6.md)
-* [计算机完全统筹经济](zhi-du/ji-suan-ji-wan-quan-tong-chou-jing-ji.md)
+* [计算机统筹经济](zhi-du/ji-suan-ji-tong-chou-jing-ji.md)
 * [热爱驱动的无条件基本收入](zhi-du/re-ai-qu-dong-de-wu-tiao-jian-ji-ben-shou-ru.md)
 
 ## 大学
