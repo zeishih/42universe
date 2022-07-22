@@ -2,7 +2,7 @@
 
 * [简介](README.md)
   * [开源](简介/kai-yuan.md)
-* [时间线](shi-jian-xian.md)
+  * [时间线](简介/shi-jian-xian.md)
 
 ## stars——in 42nd universe
 
@@ -15,13 +15,13 @@
   * [宅星人的战争](stars-in-42nd-universe/zhai-xing/page-4.md)
   * [球星人的制度](stars-in-42nd-universe/zhai-xing/qiu-xing-ren-de-zhi-du.md)
   * [小精灵星的小故事们](stars-in-42nd-universe/zhai-xing/xiao-jing-ling-xing-de-xiao-gu-shi-men.md)
-* [小精灵星](stars-in-42nd-universe/xiao-jing-ling-xing/README.md)
+* [小精灵星](stars-in-42nd-universe/xiao-jing-ling-xing.md)
   * [小精灵星的战争](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-de-zhan-zheng.md)
   * [小精灵星球的制度](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-qiu-de-zhi-du.md)
   * [小精灵星的小故事们](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-de-xiao-gu-shi-men/README.md)
     * [小精灵星球创始故事](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-de-xiao-gu-shi-men/xiao-jing-ling-xing-qiu-chuang-shi-gu-shi.md)
     * [没有舞蹈的国家](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-de-xiao-gu-shi-men/mei-you-wu-dao-de-guo-jia.md)
-* [禅星](stars-in-42nd-universe/chan-xing/README.md)
+* [禅星](stars-in-42nd-universe/chan-xing.md)
   * [禅星的战争](stars-in-42nd-universe/chan-xing/chan-xing-de-zhan-zheng.md)
   * [禅星的制度](stars-in-42nd-universe/chan-xing/chan-xing-de-zhi-du.md)
   * [禅星人的小故事们](stars-in-42nd-universe/chan-xing/chan-xing-ren-de-xiao-gu-shi-men.md)
