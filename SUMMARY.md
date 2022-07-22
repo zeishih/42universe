@@ -1,8 +1,8 @@
 # Table of contents
 
 * [简介](README.md)
-  * [开源](简介/kai-yuan.md)
-  * [时间线](简介/shi-jian-xian.md)
+  * [开源](readme/kai-yuan.md)
+  * [时间线](readme/shi-jian-xian.md)
 
 ## stars——in 42nd universe
 
@@ -14,7 +14,7 @@
 * [宅星](stars-in-42nd-universe/zhai-xing/README.md)
   * [宅星人的战争](stars-in-42nd-universe/zhai-xing/page-4.md)
   * [球星人的制度](stars-in-42nd-universe/zhai-xing/qiu-xing-ren-de-zhi-du.md)
-  * [小精灵星的小故事们](stars-in-42nd-universe/zhai-xing/xiao-jing-ling-xing-de-xiao-gu-shi-men.md)
+  * [宅星人的小故事们](stars-in-42nd-universe/zhai-xing/zhai-xing-ren-de-xiao-gu-shi-men.md)
 * [小精灵星](stars-in-42nd-universe/xiao-jing-ling-xing.md)
   * [小精灵星的战争](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-de-zhan-zheng.md)
   * [小精灵星球的制度](stars-in-42nd-universe/xiao-jing-ling-xing/xiao-jing-ling-xing-qiu-de-zhi-du.md)
