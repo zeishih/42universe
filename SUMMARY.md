@@ -3,6 +3,8 @@
 * [简介](README.md)
   * [开源](readme/kai-yuan.md)
   * [时间线](readme/shi-jian-xian.md)
+  * [项目式运作](readme/xiang-mu-shi.md)
+  
 
 ## stars——in 42nd universe
 
